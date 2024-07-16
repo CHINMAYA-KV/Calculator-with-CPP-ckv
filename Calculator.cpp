@@ -4,6 +4,9 @@ using namespace std;
 int main() {
 	int x, y, z, sum, product, subtract;
 	float divide;
+	cout<<"Please enter your name:"
+	cin>>name;
+	cout<<"Welcome"<<name;
 	cout << "Calculator(choose)--> \n";
 	cout << "1 for addition \n";
 	cout << "2 for multiplication \n";
